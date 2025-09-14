@@ -1,0 +1,4 @@
+ID,Plant Name,Location,Date Acquired,Watering Freq (days),Sunlight,Watering Date,Fertilizing Date,Repotting Date,Pruning Date
+1,Fa,Bal,09-09-2025,1,Low,,09-09-2025,09-09-2025,
+2,da,bal,09-01-2025,3,Medium,,09-09-2025,,
+3,ds,la,09-09-2025,3,Medium,,,,
